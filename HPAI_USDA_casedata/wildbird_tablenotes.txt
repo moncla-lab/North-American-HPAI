@@ -1,0 +1,52 @@
+
+Table Notes
+
+Date Detected: Specimens detected by the NAHLN H5 assay were further tested by a developmental real-time RT PCR targeting the Eurasian lineage goose/Guangdong H5 clade 2.3.4.4b. "Date Detected" indicates the date when a positive detection was obtained by the developmental RRT PCR targeting the Eurasian lineage goose/Guangdong H5 clade 2.3.4.4b.
+
+HPAI Strain:
+
+EA = Eurasian; AM = North American; the EA H5 (2.3.4.4) viruses are highly pathogenic to poultry.
+
+EA/AM: reassortant of H5 goose/Guangdong and North American wild bird lineage
+
+Virus lineage, subtype, and pathotype per cleavage site analysis are determined from sequence data direct from the sample or virus isolate. An incomplete subtype indicates either 1) the specimen is pending virus isolation and/or sequencing results, or 2) the specimen was detected by the developmental H5 RRT PCR targeting the Eurasian lineage goose/Guangdong H5 clade 2.3.4.4b but could not be further characterized, often due to a low level of virus or viral RNA present in a given sample.
+
+Sampling Sources:
+
+AK DFG = Alaska Department of Fish and Game
+CA DFW = California Department of Fish and Wildlife
+DOI = Department of the Interior
+FL FWCC = Florida Fish and Wildlife Conservation Commission
+GA DNR = Georgia Department of Natural Resources
+IA DNR = Iowa Department of Natural Resources
+ID Fish and Game = Idaho Fish & Game
+KS DWP = Kansas Department of Wildlife and Parks
+KY DFW = Kentucky Department of Fish and Wildlife
+LA DWF = Louisiana Department of Wildlife and Fisheries
+MA DFW = Massachusetts Department of Fish and Wildlife
+MD DNR = Maryland Department of Natural Resources
+ME DIFW = Maine Department of Inland Fisheries and Wildlife
+MN DNR = Minnesota Department of Natural Resources
+MO DOC = Missouri Department of Conservation
+MT FWP = Montana Fish, Wildlife, and parks
+NC WRC = North Carolina Wildlife Resources Commission
+ND Game and Fish = North Dakota Game and Fish
+NE Dept of Ag = Nebraska Department of Agriculture
+NH FGD = New Hampshire Fish and Game Department
+NPS = DOI National Park Service
+NV DOW = Nevada Division of Wildlife
+NWDP = USDA Wildlife Services National Wildlife Disease Program
+NY DEC = New York State Department of Environmental Conservation
+NY State Dept of Ag and Markets = New York State Department of Agriculture and Markets
+OH DNR = Ohio Department of Natural Resources
+PA Game Commission = Pennsylvania Game Commission
+SC DNR = South Carolina Department of Natural Resources
+SCWDS = Southeastern Cooperative Wildlife Disease Study
+SD GFP = South Dakota Game, Fish, and Parks
+USACE = U.S. Army Corps of Engineers
+USFWS = DOI U.S. Fish and Wildlife Service
+USGS = U.S. Geological Survey National Wildlife Health Center
+VA DWR = Virginia Department of Wildlife Resources
+WA DFW = Washington Department of Fish and Wildlife
+WI DNR = Wisconsin Department of Natural Resources
+
