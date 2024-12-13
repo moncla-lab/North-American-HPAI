@@ -1,6 +1,6 @@
 # Intensive transmission in wild, migratory birds drove rapid geographic dissemination and repeated spillovers of H5N1 into agriculture in North America 
 
-#### Lambodhar Damodaran*<sup>1</sup>, Anna Jaeger*<sup>1</sup>, Louise H. Moncla<sup>3</sup>
+#### Lambodhar Damodaran*<sup>1</sup>, Anna Jaeger<sup>1</sup>, Louise H. Moncla<sup>3</sup>
 
 <sup>1</sup>Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States
 
