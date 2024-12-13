@@ -1,0 +1,149 @@
+Species	taxonomic_genus_species
+african_goose	Anser cygnoides
+amazon_parrot	Ara macao
+american_black_duck	Anas rubripes
+american_blue-winged_teal	Anas discors
+american_buff_goose	Anser anser
+american_crow	Corvus brachyrhynchos
+american_green-winged_teal	Anas crecca
+american_pelican	Pelecanus erythrorhynchos
+american_raven	Corvus corax
+american_white_pelican	Pelecanus erythrorhynchos
+american_wigeon	Anas americana
+backyard_bird	Gallus gallus
+baikal_teal	Anas formosa
+bald_eagle	Haliaeetus leucocephalus
+barn_owl	Tyto alba
+barred_owl	Strix varia
+black_bear	nonhuman_mammal
+black_swift	Cypseloides niger
+black_vulture	Coragyps atratus
+black-billed_magpie	Pica hudsonia
+blue_winged_teal	Anas discors
+blue-winged_teal	Anas discors
+bobcat	nonhuman_mammal
+bottlenose_dolphin	nonhuman_mammal
+broiler_chicken	Gallus gallus
+brown_pelican	Pelecanus occidentalis
+bufflehead	Bucephala albeola
+cackling_goose	Branta hutchinsii
+canada_goose	Branta canadensis
+cape_teal	Anas capensis
+cascade_duck	Anas platyrhynchos
+caspian_tern	Sterna caspia
+cat	nonhuman_mammal
+catalina_macaw	Ara macao
+chicken	Gallus gallus
+chinese_ringneck_pheasant	Phasianus colchicus
+common_eider	Somateria mollissima
+common_eiders	Somateria mollissima
+common_goldeneye	Bucephala clangula
+common_loon	Gavia immer
+common_raven	Corvus corax
+common_tern	Sterna hirundo
+coopers_hawk	Accipiter cooperii
+coopers_s_hawk	Accipiter cooperii
+cooperss_hawk	Accipiter cooperii
+cormorant	Phalacrocorax carbo
+coyote	nonhuman_mammal
+domestic_duck	Anas platyrhynchos
+domestic_goose	Anser cygnoides
+double-crested_cormorant	Phalacrocorax auritus
+duck	Anas platyrhynchos
+dunlin	Calidris alpina
+eagle	Aquila chrysaetos
+eared_grebe	Podiceps nigricollis
+egyptian_goose	Alopochen aegyptiaca
+emu	Dromaius novaehollandiae
+falcon	Falco peregrinus
+fish_crow	Corvus ossifragus
+fisher	nonhuman_mammal
+fox	nonhuman_mammal
+franklins_gull	Larus pipixcan
+gadwall	Anas strepera
+glaucous_gull	Larus glaucescens
+glaucous-winged_gull	Larus glaucescens
+golden_eagle	Aquila chrysaetos
+goose	Anser cygnoides
+graylag_goose	Anser anser
+great_black-backed_gull	Larus marinus
+great_blue_heron	Ardea herodias
+great_horned_owl	Bubo virginianus
+great-tailed_grackle	Quiscalus mexicanus
+greater_white-fronted_goose	Anser albifrons
+green_winged_teal	Anas crecca
+green-winged_teal	Anas crecca
+guinea_fowl	Numida meleagris
+gull	Larus argentatus
+harbor_seal	nonhuman_mammal
+hawk	Falco peregrinus
+heron	Ardea herodias
+indian_runner_duck	Anas platyrhynchos
+herring_gull	Larus argentatus
+hooded_merganser	Lophodytes cucullatus
+lady_amhersts_pheasant	Chrysolophus amherstiae
+layer_chicken	Gallus gallus
+lesser_scaup	Aythya affinis
+lesser_snow_goose	Chen caerulescens
+lesser_snow_goose_blue	Chen caerulescens
+lesser_snow_goose_white	Chen caerulescens
+magpie	Pica hudsonia
+mallard	Anas platyrhynchos
+mallard_duck	Anas platyrhynchos
+merganser	Mergus merganser
+mergus	Mergus merganser
+muscovy_duck	Cairina moschata
+mute_swan	Cygnus olor
+neotropic_cormorant	Phalacrocorax brasilianus
+Northern_pintail	Anas acuta
+northern_gannet	Morus bassanus
+northern_shoveler	Anas clypeata
+northwestern_crow	Corvus brachyrhynchos
+osprey	Pandion haliaetus
+owl	Tyto alba
+peafowl	Pavo cristatus
+peacock	Pavo cristatus
+pekin_duck	Gallus gallus
+pelican	Pelecanus erythrorhynchos
+peregrine_falcon	Falco peregrinus
+pheasant	Phasianus colchicus
+poultry	Gallus gallus
+quail	Coturnix coturnix
+raccoon	nonhuman_mammal
+red_fox	nonhuman_mammal
+red-breasted_merganser	Mergus serrator
+red-shouldered_hawk	Buteo lineatus
+red-tailed_hawk	Buteo lineatus
+redhead	Aythya americana
+redhead_duck	Aythya americana
+rhea	Rhea americana
+ring-billed_gull	Larus delawarensis
+ring-necked_duck	Aythya collaris
+ring-necked_pheasant	Phasianus colchicus
+rosss_goose	Chen rossii
+rough-legged_hawk	Buteo lagopus
+royal_tern	Sterna maxima
+rt-hawk	Buteo lineatus
+sanderling	Calidris alba
+sandhill_crane	Grus canadensis
+sebastopol_goose	Anser anser
+silkie_chicken	Gallus gallus
+skunk	nonhuman_mammal
+snow_goose	Chen caerulescens
+snowy_egret	Egretta thula
+snowy_owl	Bubo scandiaca
+striped_skunk	nonhuman_mammal
+swainsons_hawk	Buteo swainsoni
+swan	Cygnus olor
+trumpeter_swan	Cygnus buccinator
+tundra_swan	Cygnus columbianus
+turkey	Meleagris gallopavo
+turkey_vulture	Cathartes aura
+virginia_opossum	nonhuman_mammal
+vulpes_vulpes	nonhuman_mammal
+vulture	Cathartes aura
+western_gull	Larus occidentalis
+western_screech_owl	Megascops kennicottii
+wild_mink	nonhuman_mammal
+wild_turkey	Meleagris gallopavo
+wood_duck	Aix sponsa

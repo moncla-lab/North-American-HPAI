@@ -1,0 +1,136 @@
+Var1,condensed,condensed2,Freq
+AK DFG,State,State,16
+AK DFG/USFWS,State_USFWS,State_Federal,97
+AK DFW,State,State,1
+AL DCNR,State,State,10
+AL DCNR/AL Dept of Ag/NWDP,State_APHIS,State_Federal,11
+APHIS Wildlife Services,APHIS,Federal,7
+AR Dept of Ag,State,State,2
+AR GFC,State,State,8
+AR GFC/SCWDS,State_SCWDS,State_SCWDS,23
+AZ GFD,State,State,7
+AZ GFD/USGS,State_USGS,State_Federal,3
+CA DFA,State,State,4
+CA DFW/CAHFS,State,State,354
+CDFW/CAHFS,State,State,10
+CO Parks & Wildlfie,State,State,1
+CO Parks & Wildlife,State,State,103
+CO Parks and Wildlife,State,State,3
+Colorado Parks and Wildlife,State,State,1
+CT DEEP,State,State,7
+CT VMDL,State,State,1
+FL FWCC,State,State,115
+FL FWCC/SCWDS,State_SCWDS,State_SCWDS,28
+FL FWCC/USGS,State_USGS,State_Federal,1
+Forest Preserve District of Cook Co.,State,State,7
+FWCC,State,State,1
+GA DNR/SCWDS,State_SCWDS,State_SCWDS,71
+IA DNR,State,State,65
+IA DNR/NWDP,State_APHIS,State_Federal,9
+ID Fish and Game,State,State,45
+ID Fish and Game/USGS,State_USGS,State_Federal,6
+IL DNR,State,State,1
+IL DNR ,State,State,1
+IL DNR/NWDP/USGS,State_APHIS_USGS,State_Federal,3
+IL DNR/USGS,State_USGS,State_Federal,6
+IN DNR,State,State,21
+IN DNR/USGS,State_USGS,State_Federal,3
+KS DWP,State,State,1
+KS DWP/SCWDS,State_SCWDS,State_SCWDS,56
+KY DFW,State,State,1
+KY DFW/SCWDS,State_SCWDS,State_SCWDS,6
+LA Co Dept of Public Health,State,State,17
+LA DFW,State,State,1
+LA DWF,State,State,1
+LA DWF/SCWDS,State_SCWDS,State_SCWDS,32
+MA DFW/USGS,State_USGS,State_Federal,14
+MD Dept of Ag,State,State,11
+MD DNR/USGS,State_USGS,State_Federal,2
+ME DIFW,State,State,9
+ME DIFW/USGS,State_USGS,State_Federal,4
+MI DNR,State,State,171
+MN DNR,State,State,17
+MN DNR/USGS,State_USGS,State_Federal,5
+MO Dept of Conservation,State,State,82
+MO Dept of Conservation/SCWDS,State_SCWDS,State_SCWDS,1
+MO Dept of Conservation/USFWS/USGS,State_USGS,State_Federal,1
+MO Dept of Conservation/USGS,State_USGS,State_Federal,9
+MS DWFP,State,State,2
+MT FWP,State,State,108
+MT FWP/USGS,State_USGS,State_Federal,4
+NC WRC/SCWDS,State_SCWDS,State_SCWDS,34
+ND Game and Fish,State,State,10
+ND Game and Fish/USFWS/SCWDS,State_SCWDS,State_SCWDS,1
+ND Game and Fish/USFWS/USGS,State_USFWS,State_Federal,4
+ND Game and Fish/USGS,State_USGS,State_Federal,8
+NE Dept of Ag,State,State,12
+NE Game and Parks,State,State,2
+NE GPC,State,State,15
+NH FGD/NWDP/USGS,State_APHIS_USGS,State_Federal,3
+Nisqually Tribe/USGS,State_USGS,State_Federal,1
+NJ DEP,State,State,2
+NJ Dept of Ag,State,State,7
+NJ DFW,State,State,2
+NM DGF,State,State,2
+NPS,NPS,Federal,2
+NPS/USGS,NPS,Federal,3
+NV DOW,State,State,25
+NV DOW/USGS,State_USGS,State_Federal,5
+NWDP,APHIS,Federal,5229
+NWDP/USFWS/USGS,APHIS_USFWS_USGS,Federal,1
+NWDP/USGS,APHIS_USGS,Federal,2
+NY DEC,State,State,289
+NY State Dept of Ag and Markets,State,State,3
+ODNR,State,State,4
+OH Dept of Ag,State,State,1
+OH DNR,State,State,18
+OH DNR/NPS,State_NPS,State_Federal,1
+OH DNR/USGS,State_USGS,State_Federal,8
+OK Dept of Ag,State,State,1
+OR DFW,State,State,154
+OR State University,University,University,2
+PA Game Commission,State,State,112
+PA Game Commission/USGS,State_USGS,State_Federal,3
+Private (non-government) submission,Private,Private,1220
+RI Division of Fish and Wildlife,State,State,1
+SC DNR/SCWDS,State_SCWDS,State_SCWDS,12
+SC DNR/USGS,State_USGS,State_Federal,3
+SCWDS,SCWDS,SCWDS,429
+SCWDS/National Eagle Repository,SCWDS,SCWDS,2
+SCWDS/USFWS - National Eagle Repository,USFWS_SCWDS,Federal_SCWDS,6
+SCWDS/USFWS National Eagle Repository,USFWS_SCWDS,Federal_SCWDS,91
+SCWDS/USFWS National Eagle Repository ,USFWS_SCWDS,Federal_SCWDS,9
+SCWDS/USFWS-National Eagle Repository,USFWS_SCWDS,Federal_SCWDS,10
+SD GFP,State,State,72
+SD GFP/USGS,State_USGS,State_Federal,3
+Tennessee Technological University/SCWDS,SCWDS,SCWDS,19
+Texas PWD,State,State,1
+TN FWC/SCWDS,State_SCWDS,State_SCWDS,6
+Tufts University,University,University,118
+TX PWD,State,State,7
+UF VDL,State,State,1
+University of ID,University,University,1
+University of NE,University,University,2
+University of WY,University,University,3
+USACE/SCWDS,State_SCWDS,State_SCWDS,1
+USFWS,USFWS,Federal,48
+USFWS National Eagle Repository,USFWS,Federal,5
+USFWS National Eagle Repository/SCWDS,USFWS_SCWDS,Federal_SCWDS,4
+USFWS National Forensics Lab,USFWS,Federal,3
+USFWS/OR DFW,State_USFWS,State_Federal,1
+USFWS/SCWDS,USFWS_SCWDS,Federal_SCWDS,22
+USFWS/USGS,USFWS_USGS,Federal,51
+USGS,USGS,Federal,61
+USGS/SCWDS,USGS_SCWDS,Federal_SCWDS,4
+USGS/SCWDS/USFWS-National Eagle Repository,USFWS_SCWDS,Federal_SCWDS,1
+UT DWR,State,State,157
+VA DWR/SCWDS,State_SCWDS,State_SCWDS,16
+VT FWD/USGS,State_USGS,State_Federal,2
+WA DFW,State,State,137
+WA DFW/USGS,State_USGS,State_Federal,8
+WA State University,University,University,1
+WI DNR,State,State,6
+WI DNR/USFWS/USGS,USFWS_SCWDS,Federal_SCWDS,1
+WI DNR/USGS,State_USGS,State_Federal,22
+WV DNR/SCWDS,State_SCWDS,State_SCWDS,1
+WY GFD,State,State,145
