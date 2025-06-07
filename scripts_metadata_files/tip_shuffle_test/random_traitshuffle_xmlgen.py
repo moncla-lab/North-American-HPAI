@@ -3,6 +3,8 @@ import random
 import argparse
 import os
 
+# LD 2026-06-07
+# this script takes an input XML and creates 100 XMLS with the discrete traits shuffled across tips to assess the affect of bias in the sampling of discrete traits.
 def shuffle_attr_elements(input_file, output_file):
     # Parse XML
     tree = ET.parse(input_file)
