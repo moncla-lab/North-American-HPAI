@@ -1,5 +1,5 @@
 # Set the root directory to start the search
-root_dir = "/Users/lamda/Documents/HPAI/HPAI_2344b/additional-analysis-2025/TTAT-TipRandTest/results/subfiles-shuffles-allanalysis-2025-05-29/orders/prop1"  # <-- Replace this
+root_dir = "/orders/prop1"  # <-- Replace this
 
 # Open output file for writing
 with open("order_condensed_output.txt", "w") as out_file:
