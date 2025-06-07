@@ -7,8 +7,7 @@ library(coda)
 setwd("~//")
 df <- read.csv("transitionsContinent.txt", sep = "\t", header = TRUE)
 df <- df[-1, ]
-# account for the introduction from Europe (Consistently 1)
-df$number_transitions <- df$number_transitions - 1
+df$number_transitions <- df$number_transitions
 
 
 mean(df$number_transitions)
