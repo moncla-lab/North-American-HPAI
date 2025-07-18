@@ -18,7 +18,7 @@ For any questions please feel free to email *Lambodhar1@gmail.com*
 
 ## System requirements and installation
 
-All bayesian phylodynamic analyses were performed using BEAST v1.10.4 ( ) please see link for installation instructions and install time (typically < 1 hour ). We performed all analyses using the PMACS HPC cluster at UPenn which utilizes a CentOS v7.8 operating system.  
+All bayesian phylodynamic analyses were performed using BEAST v1.10.4 (https://beast.community) please see link for installation instructions and install time (typically < 1 hour ). We performed all analyses using the PMACS HPC cluster at UPenn which utilizes a CentOS v7.8 operating system.  
 
 XML files for BEAST analysis can be run using standard command line interface or BEAST GUI with input files, runtimes vary depending on analysis. Analyses using empirical tree distribtuions should complete in > 1 day. All other anlaysis run between 2-5 days. 
 
